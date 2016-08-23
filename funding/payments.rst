@@ -49,7 +49,7 @@ Get payment status
 .. code:: json
 
     {
-        "Status": "Success"
+        "TransactionStatus": "Success"
     }
 
 The ``Status`` will be one of the following:
